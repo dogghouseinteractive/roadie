@@ -1,0 +1,39 @@
+04/15/23 6:05:14: style.scss - Undefined variable $import-google-fonts: style.scss on line 113, at column 1
+04/15/23 6:05:30: style.scss - Undefined variable $import-google-fonts: style.scss on line 113, at column 1
+04/15/23 6:54:11: style.scss - Undefined variable $import-google-fonts: style.scss on line 113, at column 1
+04/15/23 6:59:37: style.scss - Undefined variable $import-google-fonts: style.scss on line 113, at column 1
+06/05/23 6:24:36: style.scss - Undefined variable $import-typekit-fonts: style.scss on line 114, at column 1
+06/05/23 6:24:36: style.scss - Undefined variable $import-typekit-fonts: style.scss on line 114, at column 1
+06/05/23 6:24:46: style.scss - Undefined variable $import-typekit-fonts: style.scss on line 114, at column 1
+06/05/23 6:24:46: style.scss - Undefined variable $import-typekit-fonts: style.scss on line 114, at column 1
+06/05/23 6:24:47: style.scss - Undefined variable $import-typekit-fonts: style.scss on line 114, at column 1
+06/05/23 6:24:59: style.scss - Undefined variable $import-typekit-fonts: style.scss on line 114, at column 1
+06/06/23 2:03:52: style.scss - Undefined variable $darkprimary: style.scss on line 288, at column 2
+06/06/23 2:04:23: style.scss - Undefined variable $darkprimary: style.scss on line 288, at column 2
+06/06/23 2:04:23: style.scss - Undefined variable $darkprimary: style.scss on line 288, at column 2
+06/06/23 2:05:04: style.scss - Undefined variable $quaternary: style.scss on line 297, at column 2
+06/06/23 2:06:01: style.scss - Undefined variable $medgray: style.scss on line 226, at column 4
+06/06/23 2:06:24: style.scss - Undefined variable $quintary: style.scss on line 300, at column 2
+06/06/23 2:08:02: style.scss - Undefined variable $quintary: style.scss on line 300, at column 2
+06/06/23 7:03:09: style.scss - unexpected }: failed at `` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 1212, at column 0
+06/06/23 7:03:19: style.scss - unexpected }: failed at `` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 1212, at column 0
+06/06/23 10:09:10: style.scss - Undefined variable $teritary: style.scss on line 1024, at column 5
+06/07/23 9:29:25: style.scss - parse error: failed at `&.button` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 633, at column 5
+06/15/23 2:43:57: style.scss - parse error: failed at `10px;` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 2100, at column 9
+06/16/23 1:09:13: style.scss - parse error: failed at `margin-right; 0;` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 2384, at column 4
+06/16/23 4:03:28: style.scss - parse error: failed at `max-width 72px;` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 2630, at column 8
+06/21/23 7:30:43: style.scss - parse error: failed at `flex-direction: column` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 2761, at column 4
+07/06/23 1:02:55: style.scss - parse error: failed at `min-height 6em;` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 2513, at column 2
+07/06/23 1:21:01: style.scss - parse error: failed at `right 22%;` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 1354, at column 5
+07/06/23 1:22:55: style.scss - parse error: failed at `left 23%;` /www/driversqaroadiecom_220/public/wp-content/themes/dogghouse-fct/scss/style.scss on line 1399, at column 6
+09/29/23 3:10:59: style.scss - Undefined variable $teriary: style.scss on line 2580, at column 7
+06/11/25 5:50:26: style_safe_save_135026.scss - unclosed block: failed at `` /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/scss/style_safe_save_135026.scss on line 1720, at column 0
+06/17/25 2:42:06: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:42:57: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:43:33: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:44:59: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:47:17: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:47:17: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:47:26: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:48:28: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+06/17/25 2:48:29: /www/driverroadiecom_287/public/wp-content/themes/dogghouse-fct/www/driverroadiecom_287/public/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
