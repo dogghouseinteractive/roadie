@@ -45,6 +45,7 @@ function dogghouse_fct_setup() {
 
 	// This theme uses wp_nav_menu() in two locations.
 	register_nav_menus( array(
+    'driver' => __( 'Driver Menu', 'dogghouse_fct' ),
 		'top'    => __( 'Top Menu', 'dogghouse_fct' ),
 		'social' => __( 'Social Links Menu', 'dogghouse_fct' ),
 		'footer' => __( 'Footer Menu', 'dogghouse_fct' ),

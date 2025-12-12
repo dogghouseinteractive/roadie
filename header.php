@@ -58,6 +58,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<!-- End Google Tag Manager (noscript) -->
 
 	<header class="site-header" role="banner">
+		<?php if ( has_nav_menu( 'driver' ) ) { ?>
+			<?php wp_nav_menu( array( 'theme_location' => 'driver', 'menu_class' => 'driver-menu', 'menu_id' => 'driver-menu' ) ); ?>
+		<?php } ?>
 		<div class="container">
 			<?php $custom_logo = get_custom_logo(); ?>
 			<div id="hamburger">
